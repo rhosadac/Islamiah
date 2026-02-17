@@ -3,7 +3,7 @@ export default function Footer() {
     <>
       <footer className="p-3 text-center mb-20">
         <p>
-          Dibuat dengan ❤ oleh{' '}
+          Dibuat oleh{' '}
           <a href="https://rhosad.id" target="_blank">
             Rhosad Holiyan
           </a>{' '}
